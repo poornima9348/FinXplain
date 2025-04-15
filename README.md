@@ -6,7 +6,7 @@ _____
 
 ## Code with model results:
 
-If the code notebook rendering in main doesn't work, please refer to this original notebook on Colab: [FinXplain.ipynb](https://colab.research.google.com/drive/1kvz6OB8x1WvaEwCKCOQy3VXceLvcoBQU?usp=sharing)
+Please refer to this notebook on Colab: [FinXplain.ipynb](https://colab.research.google.com/drive/1kvz6OB8x1WvaEwCKCOQy3VXceLvcoBQU?usp=sharing)
 
 _____
 
